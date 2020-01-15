@@ -1,0 +1,11 @@
+{
+    "terminal.external.windowsExec": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "workbench.panel.defaultLocation": "right",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "go.formatTool": "goimports",
+    "files.autoSave": "onFocusChange",
+    "http.proxy": "http://127.0.0.1:1080",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "go.lintOnSave": "off"
+}
