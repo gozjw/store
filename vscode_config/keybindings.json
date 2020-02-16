@@ -1,0 +1,20 @@
+// 将键绑定放在此文件中以覆盖默认值auto[]
+[
+    {
+        "key": "ctrl+e ctrl+e",
+        "command": "-SQLTools.executeQuery",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+enter",
+        "command": "SQLTools.executeQuery"
+    },
+    {
+        "key": "ctrl+up",
+        "command": "workbench.action.terminal.focusPrevious"
+    },
+    {
+        "key": "ctrl+down",
+        "command": "workbench.action.terminal.focusNext"
+    }
+]

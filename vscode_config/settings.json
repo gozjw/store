@@ -8,5 +8,9 @@
     "http.proxy": "http://127.0.0.1:1080",
     "editor.suggestSelection": "first",
     "go.lintOnSave": "off",
-    "go.testFlags": ["-v","-count=1"]
+    "go.testFlags": [
+        "-v",
+        "-count=1"
+    ],
+    "sqltools.autoOpenSessionFiles": false
 }
